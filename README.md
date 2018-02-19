@@ -1,5 +1,5 @@
 # TapID-Kotlin
-TapID plugin written by Kotlin + Gradle. for NukkitX #59`s build.
+TapID plugin written by Kotlin + Gradle. for NukkitX #95`s build.
 
 ### Known Bug
 サーバーに入室するとき及びサーバーから退出するときに以下の例外が発生します。  
