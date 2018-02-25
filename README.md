@@ -1,7 +1,8 @@
 # TapID-Kotlin
-TapID plugin written by Kotlin + Gradle. for NukkitX #95`s build.
+TapID plugin written by Kotlin + Gradle. for NukkitX.
 
 ### Known Bug
+<https://github.com/NukkitX/Nukkit/issues/68> , <https://github.com/NukkitX/Nukkit/issues/146> , <https://github.com/NukkitX/Nukkit/issues/154>
 サーバーに入室するとき及びサーバーから退出するときに以下の例外が発生します。  
 The following exception occurs when entering the server and when leaving the server:
 > 18:33:24 [ALERT] java.lang.RuntimeException: java.io.EOFException
