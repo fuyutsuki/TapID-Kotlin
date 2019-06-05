@@ -1,5 +1,5 @@
 name: TapID
 main: tokyo.pmmp.nukkitx.Core
-version: 0.0.1
-api: 1.0.5 # NukkitX/Nukkit
+version: 0.0.2
+api: 1.0.0 # NukkitX/Nukkit
 author: yuko_fuyutsuki
